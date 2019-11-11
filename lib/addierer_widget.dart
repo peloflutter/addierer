@@ -110,7 +110,7 @@ class _AddiererWidgetState extends State<AddiererWidget> {
               padding: const EdgeInsets.fromLTRB(8.0, 0.0, 8.0, 8.0),
               child: Text(
                 'Result:',
-                style: TextStyle(fontSize: 30),
+                style: TextStyle(fontSize: 24),
               ),
             ),
             Padding(
