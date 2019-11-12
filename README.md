@@ -12,9 +12,9 @@ Calling the inherited method `setState`-method of class `StatefulWidget` yields 
 
 Abbildung 1. Homepage of *Adding two Numbers* App.
 
-## Erste Schritte
-
 ***
+
+## Erste Schritte
 
 Die App dient zum ersten Einstieg in das Flutter-Framework. Die Anwendung einfacher Flutter-Widgets im Kontext eines `StatefulWidget`-Objekts stehen im Mittelpunkt.
 
