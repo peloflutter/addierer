@@ -1,16 +1,30 @@
-# addierer
-
-A new Flutter project.
+# Addierer / Simple Adder
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a very simple Flutter-App demonstrating the use of some basic Flutter-Widgets within a `StatefulWidget`.
 
-A few resources to get you started if this is your first Flutter project:
+The use of a `StatefulWidget`-object is necessary to show the results of adding two numbers.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Calling the inherited method `setState`-method of class `StatefulWidget` yields an immediate invocation of the corresponding `build`-method.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="assets/adder_screenshot.png" width="300">
+
+Abbildung 1. Homepage of 'Simple Adder' App.
+
+## Erste Schritte
+
+***
+
+Die App dient zum ersten Einstieg in das Flutter-Framework. Die Anwendung einfacher Flutter-Widgets im Kontext eines `StatefulWidget`-Objekts stehen im Mittelpunkt.
+
+Der Einsatz eines `StatefulWidget`-Objekts ist notwendig, um das Ergebnis der Addition zweiter natürlicher Zahlen zur Anzeige zu bringen.
+
+Ein Aufruf der `setState`-Methode in der `StatefulWidget`-Klasse zieht unmittelbar einen Aufruf der `build`-Methode im Objekt nach sich.
+
+
+<img src="assets/adder_screenshot.png" width="300">
+
+Abbildung 1. Oberfläche der Addierer-App.
+
+
