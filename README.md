@@ -1,4 +1,4 @@
-# Addierer / Simple Adder
+# Addierer zweier Zahlen / Adding two Numbers
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ Calling the inherited method `setState`-method of class `StatefulWidget` yields 
 
 <img src="assets/adder_screenshot.png" width="300">
 
-Abbildung 1. Homepage of 'Simple Adder' App.
+Abbildung 1. Homepage of *Adding two Numbers* App.
 
 ## Erste Schritte
 
@@ -25,6 +25,4 @@ Ein Aufruf der `setState`-Methode in der `StatefulWidget`-Klasse zieht unmittelb
 
 <img src="assets/adder_screenshot.png" width="300">
 
-Abbildung 1. Oberfläche der Addierer-App.
-
-
+Abbildung 1. Oberfläche der *Adding two Numbers*-App.

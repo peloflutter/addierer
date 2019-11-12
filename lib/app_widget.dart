@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: AddiererWidget(title: 'Very Simple Calculator'),
+      home: AddiererWidget(title: 'Adding two Numbers'),
     );
   }
 }
